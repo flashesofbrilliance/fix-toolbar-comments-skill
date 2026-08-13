@@ -71,3 +71,8 @@ explaining why, so nothing disappears without a trace.
 ## License
 
 MIT. See [LICENSE](./LICENSE).
+---
+
+## Part of the ARCS family
+
+An open, MIT-licensed tool in the [flashesofbrilliance](https://github.com/flashesofbrilliance) / ARCS family — small, composable, provenance-carrying. The tools are open; the ARCS intelligence that orchestrates them is private.
