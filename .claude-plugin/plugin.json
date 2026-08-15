@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fix-toolbar-comments",
+  "version": "0.1.0",
+  "description": "Fetch open Vercel Toolbar comment threads, implement the fixes, commit, deploy to production, and resolve each thread.",
+  "author": { "name": "flashesofbrilliance" },
+  "license": "MIT",
+  "repository": "https://github.com/flashesofbrilliance/fix-toolbar-comments-skill",
+  "keywords": ["arcs", "claude-code", "skill"]
+}
